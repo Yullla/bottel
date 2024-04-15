@@ -1,3 +1,3 @@
-# bottel
-Telegrambot
-Module 2. Coding Session - програмування телеграм бота на мові Golang
+t.me/Yulorobobot
+Telegram Bot created as student project.
+Yulo responds to /start hello with information about version.
